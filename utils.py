@@ -17,4 +17,4 @@ def get_categories():
 
 if __name__ == '__main__':
     print("Hello World")
-#     get_categories()
+    get_categories()
